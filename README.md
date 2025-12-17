@@ -6,4 +6,4 @@ Here's the link to my personal portfolio:
 
 ---
 
-📫 [LinkedIn](https://linkedin.com/in/subhanshrestha) | [Email](mailto:shresthasubhan@gmail.com)
+   [LinkedIn](https://linkedin.com/in/subhanshrestha) | [Email](mailto:shresthasubhan@gmail.com)
