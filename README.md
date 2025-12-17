@@ -1,6 +1,6 @@
 # Hey, I'm Subhan Shrestha.
 
-Software Engineer | Virginia Tech CS '25
+Here's the link to my personal portfolio:
 
 🔗 **[subhanshrestha.github.io](https://subhanshrestha.github.io)**
 
