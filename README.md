@@ -1,6 +1,4 @@
-# Hey, I'm Subhan Shrestha.
-
-Here's the link to my personal portfolio:
+# Link to my personal portfolio:
 
 🔗 **[subhanshrestha.github.io](https://subhanshrestha.github.io)**
 
