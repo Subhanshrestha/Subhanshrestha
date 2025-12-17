@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Subhan 👋
 
-<!--
-**Subhanshrestha/Subhanshrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** | Virginia Tech CS '25 | Building products that matter
 
-Here are some ideas to get you started:
+🔗 **[View My Portfolio](https://subhanshrestha.github.io)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+- 🏢 Former Product Engineering Intern @ **Kentik** (AI Team)
+- 🎓 CS Graduate from **Virginia Tech** (3.5 GPA)
+- 👨‍🏫 Teaching Assistant helping 300+ students with C & Assembly
+
+### What I Build
+- 🤖 AI-powered applications (LLMs, GraphRAG, embeddings)
+- 📱 iOS apps with SwiftUI
+- 🌐 Full-stack web apps with React & Node.js
+
+### Featured Project
+**[Cinna](https://github.com/bnyg-yeah/cinna-ios)** — AI movie companion using GraphRAG + OpenAI embeddings
+
+---
+
+📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/subhanshrestha) | [Email](mailto:shresthasubhan@gmail.com)
