@@ -1,4 +1,8 @@
-# Link to my personal portfolio:
+# Hey, I'm Subhan!
+
+Software Engineer | Virginia Tech CS '25
+
+# Here's link to my personal portfolio:
 
 🔗 **[subhanshrestha.github.io](https://subhanshrestha.github.io)**
 
